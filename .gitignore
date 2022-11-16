@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+/libs/*
+/ext/*
+/src/imgui/*
+*.ini
+/x64/*
+/.vs/*
